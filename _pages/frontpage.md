@@ -1,8 +1,8 @@
 ---
 permalink: /
-layout: home
+layout: page
 title: Welcome
-list_title: Welcome
+list_title: Welcome P
 ---
 
 **Hi there 👋 Welcome to KevaLab**
