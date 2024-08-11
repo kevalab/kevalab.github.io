@@ -1,10 +1,10 @@
 # Site settings
-title: Awesome Site on GitHub Pages
-github_username: cdworkshops
+title: KEva Lab
+github_username: kevalab
 description: >
   This is a practice site to demo GitHub Pages.
  
-url: "https://cdworkshops.github.io/cats"
+url: "https://kelab.github.io"
 
 # Build settings
 markdown: kramdown
