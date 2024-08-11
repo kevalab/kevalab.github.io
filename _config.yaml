@@ -1,9 +1,6 @@
 # Site settings
 title: KEva Lab
 github_username: kevalab
-description: >
-  This is a practice site to demo GitHub Pages.hhh
- 
 url: "https://kevalab.github.io"
 
 # Build settings
