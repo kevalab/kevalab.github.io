@@ -6,8 +6,6 @@ url: "https://kevalab.github.io"
 # Build settings
 markdown: kramdown
 theme: minima
-header_pages:
-  - about.md
 
 minima:
   date_format: "%Y-%m-%d"  
