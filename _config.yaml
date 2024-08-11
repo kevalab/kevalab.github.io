@@ -19,6 +19,7 @@ show_excerpts: true
 # Minima: custom header links
 header_pages:
   - _pages/about.md
+  - _pages/blog.md
 
 include:
   - _pages
