@@ -2,9 +2,9 @@
 title: KEva Lab
 github_username: kevalab
 description: >
-  This is a practice site to demo GitHub Pages.
+  This is a practice site to demo GitHub Pages.hhh
  
-url: "https://kelab.github.io"
+url: "https://kevalab.github.io"
 
 # Build settings
 markdown: kramdown
