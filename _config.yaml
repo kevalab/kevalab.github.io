@@ -1,6 +1,6 @@
 # Site settings
 title: Home
-description: kevalab
+description: We craft open-source tools for communities.
 
 url: "https://kevalab.github.io"
 
@@ -18,7 +18,6 @@ show_excerpts: true
 
 # Minima: custom header links
 header_pages:
-  - _pages/about.md
   - _pages/blog.md
 
 include:
