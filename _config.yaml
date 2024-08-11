@@ -6,3 +6,5 @@ url: "https://kevalab.github.io"
 # Build settings
 markdown: kramdown
 theme: minima
+header_pages:
+  - about.md
