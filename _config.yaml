@@ -1,11 +1,13 @@
 # Site settings
 title: kevalab
-github_username: kevalab
+description: kevalab
+
 url: "https://kevalab.github.io"
 
-# Build settings
-markdown: kramdown
 theme: minima
+
+# Minima social links
+github_username: kevalab
 
 minima:
   date_format: "%Y-%m-%d"  
