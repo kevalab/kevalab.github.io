@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: home
+title: Welcome to KevaLab
 ---
  ## Hi there 👋 Welcome to KevaLab
  
