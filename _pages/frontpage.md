@@ -1,26 +1,22 @@
----
+
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: Hi there 👋 Welcome to KevaLab
+list_title: Welcome
+---
+ 
+We are an open-source incubator dedicated to crafting innovative tools that empower communities and drive technological progress. Founded on the belief that collaboration and shared knowledge are the cornerstones of innovation, we bring together tech enthusiasts, creators, and innovators from all backgrounds to work on meaningful projects that solve real-world challenges.
+
+At KevaLab, our mission is to foster collaboration, continuous learning, and innovation by contributing valuable solutions to the global open-source ecosystem. We believe in the power of open-source to democratize technology and make it accessible to everyone. By uniting a diverse network of passionate individuals, we aim to build platforms that not only address today’s problems but also inspire creativity and shape the future of technology.
+
+Whether you’re a developer, designer, researcher, or simply passionate about technology, KevaLab welcomes you to join us on our journey. Together, we can innovate, learn, and contribute to a brighter, more inclusive technological future.
+
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+## 🌟 Mission
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+At KevaLab, our mission is to empower and unite diverse communities through the creation and promotion of open-source tools. We strive to foster collaboration, continuous learning, and innovation by engaging with tech enthusiasts, creators, and innovators worldwide. Our goal is to drive technological progress and make a positive, enduring impact on society through meaningful contributions to the open-source ecosystem.
 
-Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
+## 🚀 Vision
 
-<img src="./assets/imgs/screenshot.png" width="400px">
-
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
-
-
-Have a great day!!
-
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages
-[issue]: https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose
-[contact]: https://jorgesanz.net/contact/
+Our vision is to become a global leader in open-source innovation, creating tools and platforms that not only solve real-world challenges but also inspire creativity and collaboration across borders. We envision a future where technology is accessible, inclusive, and driven by a collective effort to build a better world through open-source contributions. KevaLab aims to be at the forefront of this movement, shaping the future of technology by nurturing a vibrant community of passionate individuals who believe in the power of open collaboration.
