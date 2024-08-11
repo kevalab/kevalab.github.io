@@ -1,9 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Welcome to KevaLab
 ---
- ## Hi there 👋 Welcome to KevaLab
+
+## Hi there 👋 Welcome to KevaLab
  
 We are an open-source incubator dedicated to crafting innovative tools that empower communities and drive technological progress. Founded on the belief that collaboration and shared knowledge are the cornerstones of innovation, we bring together tech enthusiasts, creators, and innovators from all backgrounds to work on meaningful projects that solve real-world challenges.
 
@@ -16,6 +16,8 @@ Whether you’re a developer, designer, researcher, or simply passionate about t
 ## 🌟 Mission
 
 At KevaLab, our mission is to empower and unite diverse communities through the creation and promotion of open-source tools. We strive to foster collaboration, continuous learning, and innovation by engaging with tech enthusiasts, creators, and innovators worldwide. Our goal is to drive technological progress and make a positive, enduring impact on society through meaningful contributions to the open-source ecosystem.
+
+---
 
 ## 🚀 Vision
 
