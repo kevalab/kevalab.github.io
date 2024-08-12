@@ -1,8 +1,8 @@
 # Site settings
-title: Home
+name: Kevalab 
 description: We craft open-source tools for communities.
-
 url: "https://kevalab.github.io"
+logo: "img/logo-2x.png"
 
 theme: minima
 
