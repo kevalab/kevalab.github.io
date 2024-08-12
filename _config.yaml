@@ -3,6 +3,32 @@ name: Kevalab
 description: We craft open-source tools for communities.
 url: "https://kevalab.github.io"
 logo: "img/logo-2x.png"
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: news_item
+- scope:
+    path: _tutorials
+    type: tutorials
+  values:
+    layout: tutorials
 
 theme: minima
 
